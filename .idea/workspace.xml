@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31deb970-01b1-4d30-8c7c-148631fff687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/student/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineQuizSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineQuizSystem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teacher/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teacher/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teacher/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/teacher/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +17,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hatim" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Zfjap3Y0ncok1Y9PRNXCJqWE4E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -51,13 +50,26 @@
       <option name="presentableId" value="Default" />
       <updated>1585237108544</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added two models Student and Teacher">
+      <created>1585300378488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585300378488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added two models Student and Teacher" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added two models Student and Teacher" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585295679670">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585300376301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585295679670" />
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1585300376301" />
     <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585300317211">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
